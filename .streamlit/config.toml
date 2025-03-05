@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#ffffff"       # Цвет основных элементов (кнопки, ссылки)
+backgroundColor="#506788"    # Цвет фона всей страницы
+secondaryBackgroundColor="#405060" # Цвет боковых панелей (если нужно)
+textColor="#ffffff"          # Цвет текста
+font="sans serif"            # Выбор шрифта (PV Grotesk нет в стандартном наборе)
