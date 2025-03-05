@@ -1,1 +1,6 @@
-
+streamlit
+pandas
+seaborn
+matplotlib
+datetime
+openpyxl
