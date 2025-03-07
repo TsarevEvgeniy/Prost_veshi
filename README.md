@@ -3,7 +3,7 @@
 ### Описание файлов:
 | Файл| Описание|
 |------|-----------|
-|[Dashbord_Prostie_Veshi](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/Dashbord_Prostie_Veshi.ipynb) | Само аналитическое исследование|
+|[Dashbord_Prostie_Veshi](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/Dashbord_Prostie_Veshi.ipynb) | Аналитическое исследование|
 |[payments.xlsx](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/payments.xlsx) | Файл с исходными данными для загрузки|
 
 [Прямой переход к приложению в streamlit](https://prostveshi-4qjp89nubrfeaguoqrvcv2.streamlit.app/)
