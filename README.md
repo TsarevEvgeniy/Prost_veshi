@@ -6,3 +6,7 @@
 |[requirements.txt](https://github.com/LKonyukova/Sipmle-things/blob/main/requirements.txt) | Файл-дополнение к app.py, который обеспечивает согласованность библиотек|
 
 [Прямой переход к приложению в streamlit](https://prostveshi-4qjp89nubrfeaguoqrvcv2.streamlit.app/)
+
+Для анализа данных о пожертвованиях АНО "Простые вещи" необходимо:
+1.Скачать файл с исходными данными о пожертвованиях
+2.Пройти по прямой ссылки приложения и там загрузить файл payments
