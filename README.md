@@ -1,6 +1,6 @@
 | Файл| Описание|
 |------|-----------|
-|[Dashbord_Prostie_Veshi](https://github.com/LKonyukova/Sipmle-things/blob/main/Prostie_veshchi_v.13.ipynb) | Само аналитическое исследование|
+|[Dashbord_Prostie_Veshi](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/Dashbord_Prostie_Veshi.ipynb) | Само аналитическое исследование|
 |[asd.py](https://github.com/LKonyukova/Sipmle-things/blob/main/dashboard_simple_things.py) | Аналитическая панель в streamlit|
 |[functions.py](https://github.com/LKonyukova/Sipmle-things/blob/main/functions.py) | Файл-дополнение к dashboard_simple_things.py, в котором лежат основные функции|
 |[ipykernel_launcher.py](https://github.com/LKonyukova/Sipmle-things/blob/main/ipykernel_launcher.py) | Файл-дополнение к dashboard_simple_things.py, который оберегает от ошибок|
