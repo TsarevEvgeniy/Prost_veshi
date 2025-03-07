@@ -5,4 +5,4 @@
 |[payments.xlsx](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/payments.xlsx) | Файл с исходными данными для загрузки|
 |[requirements.txt](https://github.com/LKonyukova/Sipmle-things/blob/main/requirements.txt) | Файл-дополнение к app.py, который обеспечивает согласованность библиотек|
 
-[Прямой переход к приложению в streamlit](https://sipmle-things-bhuipj98x34ws8kuillic2.streamlit.app/?embed_options=light_theme)
+[Прямой переход к приложению в streamlit](https://prostveshi-4qjp89nubrfeaguoqrvcv2.streamlit.app/)
