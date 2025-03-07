@@ -36,7 +36,8 @@ if uploaded_file is not None:
         data = pd.read_csv(uploaded_file)
     else:
         data = pd.read_excel(uploaded_file, engine='openpyxl')
-    
+        
+    del data['Unnamed: 0']
     data = data[data["status"] != "Отклонена"]
     data["aim"] = data["aim"].replace("Вещи с особенностями", "Пожертвование на ведение уставной деятельности")
     data["aim"] = data["aim"].fillna("Не определен")
