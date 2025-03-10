@@ -10,4 +10,4 @@
 
 Для анализа данных о пожертвованиях АНО "Простые вещи" необходимо:
 * 1.Скачать файл с исходными данными о пожертвованиях: [payments.xlsx](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/payments.xlsx)
-* 2.Пройти по прямой [ссылки](https://github.com/TsarevEvgeniy/Prost_veshi/blob/main/payments.xlsx)приложения и там загрузить файл payments
+* 2.Пройти по прямой [ссылки](https://prostveshi-4qjp89nubrfeaguoqrvcv2.streamlit.app/) приложения и там загрузить файл payments
